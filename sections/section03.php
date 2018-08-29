@@ -1,5 +1,5 @@
 <div id="three" class="sc">
 	<div class="sccontainer">
-		3
+		Alleen hoe doe je dat?
 	</div>
 </div>
